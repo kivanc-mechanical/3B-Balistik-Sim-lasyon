@@ -10,7 +10,7 @@ RK4 (Runge-Kutta 4) sistemi kullanılarak geliştirilmiş, 3 boyutlu balistik si
 #----------GÜNCELLEMELER----------#
 
 Tarih:28.02.2026:
-* Mermi kütüphanesi eklerndi artık merminin gerekli değerlerini (yanal alanı.vb)
+* Mermi kütüphanesi eklendi artık merminin gerekli değerlerini (yanal alanı.vb)
 direk merminin türüne göre kütüphaneden seçiyor kütüphanede olamayan mermileri ise verileri ile birlikte kaydediyor
     
 Tarih:02.03.2026:
