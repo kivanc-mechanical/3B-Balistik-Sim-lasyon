@@ -1,11 +1,11 @@
 # 3B-Balistik-Simülasyon
 RK4 (Runge-Kutta 4) sistemi kullanılarak geliştirilmiş, 3 boyutlu balistik simülasyon terminali. Hava yoğunluğu (ISA), Coriolis, Eötvös, Magnus, Aerodinamik Jump ve Spin Drift etkilerini dinamik olarak hesaplar. .50 BMG ve .338 Lapua gibi mühimmatlar için yüksek hassasiyetli yörünge analizi sunar (eğtim amaçlıdır).
 
-PROJE: Balistik Atış Simülasyonu
-PROJE SAHİBİNİN ADI SOYADI: Kıvanç Altıntopu
-PROJE SAHİBİNİN BÖLÜMÜ: Makine Mühendisliği Hazırlık Öğrencisi
-OKULUN ADI: Manisa Celal Bayar Üniversitesi Mühendislik ve Doğa Bilimlei Kampüsü
-PROJENİN BİTİŞ TARİHİ: 24.02.2026
+* PROJE: Balistik Atış Simülasyonu
+* PROJE SAHİBİNİN ADI SOYADI: Kıvanç Altıntopu
+* PROJE SAHİBİNİN BÖLÜMÜ: Makine Mühendisliği Hazırlık Öğrencisi
+* OKULUN ADI: Manisa Celal Bayar Üniversitesi Mühendislik ve Doğa Bilimlei Kampüsü
+* PROJENİN BİTİŞ TARİHİ: 24.02.2026
     
 #----------GÜNCELLEMELER----------#
 
